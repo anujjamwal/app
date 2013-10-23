@@ -1,0 +1,1 @@
+$layout/welcome(title="hello", body="bye")$
